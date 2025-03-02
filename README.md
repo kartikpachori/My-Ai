@@ -44,7 +44,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Screenshots
 <span>
-<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick1.png" width="18%" height="45%">
-<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick2.png" width="18%" height="45%">
-<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick3.png" width="18%" height="45%">
+<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick1.png" width="100%" height="250%">
+<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick2.png" width="100%" height="250%">
+<img src="https://github.com/kartikpachori/My-Ai/blob/starter/assets/Pick3.png" width="100%" height="250%">
 </span>
