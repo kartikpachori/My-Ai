@@ -1,4 +1,4 @@
-# Lama Dev - AI Chatbot
+# Mantra - AI Chatbot
 
 Lama Dev is an AI-powered chatbot application built using React, Node.js, and MongoDB. It allows users to engage in real-time conversations and ask any question, leveraging the Google Gemini API for intelligent responses.
 
